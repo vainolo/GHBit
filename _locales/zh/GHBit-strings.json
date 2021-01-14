@@ -33,8 +33,8 @@
 	"GHBit.Motorshock.ON|block": "开",
 	
 	"GHBit.enRocker.Nostate|block": "无",
-	"GHBit.enRocker.Up|block": "上",
-	"GHBit.enRocker.Down|block": "下",
+	"GHBit.enRocker.Up|block": "⬆",
+	"GHBit.enRocker.Down|block": "⬇",
 	"GHBit.enRocker.Left|block": "左",
 	"GHBit.enRocker.Right|block": "右",
 	"GHBit.enRocker.Press|block": "按下",
